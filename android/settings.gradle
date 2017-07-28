@@ -1,0 +1,3 @@
+rootProject.name = 'reactNativeUshareNemo'
+
+include ':app'
